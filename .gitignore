@@ -1,0 +1,88 @@
+#-------------------------#
+#    C/C++ .gitignore     #
+#-------------------------#
+C++\build-Tuniersoftware-Clang-Debug
+C++\build*
+
+
+# This file is used to ignore files which are generated
+# ----------------------------------------------------------------------------
+
+C++\Tuniersoftware\*~
+C++\Tuniersoftware\*.autosave
+C++\Tuniersoftware\*.a
+C++\Tuniersoftware\*.core
+C++\Tuniersoftware\*.moc
+C++\Tuniersoftware\*.o
+C++\Tuniersoftware\*.obj
+C++\Tuniersoftware\*.orig
+C++\Tuniersoftware\*.rej
+C++\Tuniersoftware\*.so
+C++\Tuniersoftware\*.so.*
+C++\Tuniersoftware\*_pch.h.cpp
+C++\Tuniersoftware\*_resource.rc
+C++\Tuniersoftware\*.qm
+C++\Tuniersoftware\.#*
+C++\Tuniersoftware\*.*#
+C++\Tuniersoftware\core
+C++\Tuniersoftware\!core/
+C++\Tuniersoftware\tags
+C++\Tuniersoftware\.DS_Store
+C++\Tuniersoftware\.directory
+C++\Tuniersoftware\*.debug
+C++\Tuniersoftware\Makefile*
+C++\Tuniersoftware\*.prl
+C++\Tuniersoftware\*.app
+C++\Tuniersoftware\moc_*.cpp
+C++\Tuniersoftware\ui_*.h
+C++\Tuniersoftware\qrc_*.cpp
+C++\Tuniersoftware\Thumbs.db
+C++\Tuniersoftware\*.res
+C++\Tuniersoftware\*.rc
+C++\Tuniersoftware\/.qmake.cache
+C++\Tuniersoftware\/.qmake.stash
+
+# qtcreator generated files
+C++\Tuniersoftware\*.pro.user*
+C++\Tuniersoftware\CMakeLists.txt.user*
+
+# xemacs temporary files
+C++\Tuniersoftware\*.flc
+
+# Vim temporary files
+C++\Tuniersoftware\.*.swp
+
+# Visual Studio generated files
+C++\Tuniersoftware\*.ib_pdb_index
+C++\Tuniersoftware\*.idb
+C++\Tuniersoftware\*.ilk
+C++\Tuniersoftware\*.pdb
+C++\Tuniersoftware\*.sln
+C++\Tuniersoftware\*.suo
+C++\Tuniersoftware\*.vcproj
+C++\Tuniersoftware\*vcproj.*.*.user
+C++\Tuniersoftware\*.ncb
+C++\Tuniersoftware\*.sdf
+C++\Tuniersoftware\*.opensdf
+C++\Tuniersoftware\*.vcxproj
+C++\Tuniersoftware\*vcxproj.*
+
+# MinGW generated files
+C++\Tuniersoftware\*.Debug
+C++\Tuniersoftware\*.Release
+
+# Python byte code
+C++\Tuniersoftware\*.pyc
+
+# Binaries
+# --------
+C++\Tuniersoftware\*.dll
+C++\Tuniersoftware\*.exe
+C++\Tuniersoftware\CMakeLists.txt.user
+
+
+#-------------------------#
+#    Kotlin .gitignore    #
+#-------------------------#
+Kotlin\build
+Kotlin\.gradle
